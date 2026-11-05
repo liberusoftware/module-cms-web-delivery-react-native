@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-web-delivery-react-native",
+  "capabilityKey": "liberusoftware/module-cms-web-delivery",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-web-delivery-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/web-delivery.md",
+  "presentationPlan": "projects/cms/react-native/web-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
